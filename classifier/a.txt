@@ -1,0 +1,22 @@
+Downloading data from https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+170498071/170498071 [==============================] - 1139s 7us/step
+Epoch 1/10
+1563/1563 [==============================] - 20s 12ms/step - loss: 1.5592 - accuracy: 0.4285 - val_loss: 1.2719 - val_accuracy: 0.5457
+Epoch 2/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 1.1957 - accuracy: 0.5755 - val_loss: 1.1385 - val_accuracy: 0.5919
+Epoch 3/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 1.0464 - accuracy: 0.6321 - val_loss: 1.0343 - val_accuracy: 0.6388
+Epoch 4/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 0.9517 - accuracy: 0.6693 - val_loss: 1.0091 - val_accuracy: 0.6463
+Epoch 5/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 0.8796 - accuracy: 0.6918 - val_loss: 0.9074 - val_accuracy: 0.6886
+Epoch 6/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 0.8206 - accuracy: 0.7140 - val_loss: 0.9283 - val_accuracy: 0.6861
+Epoch 7/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 0.7706 - accuracy: 0.7318 - val_loss: 0.9141 - val_accuracy: 0.6924
+Epoch 8/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 0.7330 - accuracy: 0.7449 - val_loss: 0.8916 - val_accuracy: 0.6969
+Epoch 9/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 0.6933 - accuracy: 0.7575 - val_loss: 0.9183 - val_accuracy: 0.6923
+Epoch 10/10
+1563/1563 [==============================] - 20s 13ms/step - loss: 0.6516 - accuracy: 0.7728 - val_loss: 0.8796 - val_accuracy: 0.7109

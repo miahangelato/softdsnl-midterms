@@ -1,0 +1,17 @@
+# Ignore virtual environment folder: myenv
+myenv/
+
+### venv ###
+# Virtualenv files and folders to ignore
+.Python
+[Bb]in/
+[Ii]nclude/
+[Ll]ib/
+[Ll]ib64/
+[Ll]ocal/
+[Ss]cripts/
+pyvenv.cfg
+.venv/
+pip-selfcheck.json
+
+# End of venv gitignore
